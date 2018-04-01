@@ -19,11 +19,11 @@ arSaladR.py:  An example of the python script used to scrape recipes
 
 Python 3:
 
-keras
-nltk
-gensim
-tensorflow
-matplotlib
-numpy
-sklearn
-pandas
+keras<br>
+nltk<br>
+gensim<br>
+tensorflow<br>
+matplotlib<br>
+numpy<br>
+sklearn<br>
+pandas<br>
